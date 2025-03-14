@@ -46,11 +46,12 @@ I’m a frontend developer based in Germany, passionate about creating clean, us
 ![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ## Latest projects 
-### Tic-Tac-Toe 
-This is a simple Tic-Tac-Toe project to play with React and to master some skills:
+| Project | Description | 🌍 Live | 🛠️ Repo |
+| :-------| :---------- | :----: | :------: |
+| Tic-Tac-Toe | This is a simple Tic-Tac-Toe project to play with React and to master some skills. | [Live](https://elizavetakrainova.github.io/Tic-Tac-Toe/) |[Repo](https://github.com/elizavetaKrainova/Tic-Tac-Toe) |
+| Vanilla-Tilt | A small exercise using the VanillaTilt library to understand how DOM access works in React and to explore memory leaks. | [Live](https://elizavetakrainova.github.io/vanilla-tilt/) |[Repo](https://github.com/elizavetaKrainova/vanilla-tilt) |
 
-🌍 [Live](https://elizavetakrainova.github.io/Tic-Tac-Toe/)
 
-🛠️ [Repo](https://github.com/elizavetaKrainova/Tic-Tac-Toe)
+
 
 
