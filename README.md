@@ -50,6 +50,7 @@ I’m a frontend developer based in Germany, passionate about creating clean, us
 | :-------| :---------- | :----: | :------: |
 | Tic-Tac-Toe | This is a simple Tic-Tac-Toe project to play with React and to master some skills. | [Live](https://elizavetakrainova.github.io/Tic-Tac-Toe/) |[Repo](https://github.com/elizavetaKrainova/Tic-Tac-Toe) |
 | Vanilla-Tilt | A small exercise using the VanillaTilt library to understand how DOM access works in React and to explore memory leaks. | [Live](https://elizavetakrainova.github.io/vanilla-tilt/) |[Repo](https://github.com/elizavetaKrainova/vanilla-tilt) |
+| Node.js lab | Test environment to practice node.js skills with ejs. | In progress | [Repo](https://github.com/elizavetaKrainova/nodejs-labs) |
 
 
 
